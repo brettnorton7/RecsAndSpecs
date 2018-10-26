@@ -7,8 +7,11 @@
 7. What are all of the student and faculty groups who will be given permits?
 8. Will all permits qualify the student for the same things??  i.e. will there be a tier system governing how much access students have; or an un-tiered, but segmented system where students are only granted access to specific relevant activities?
 9. Is the software intended for use by employees on site to scan people in (like many gyms) or is the software intended for use by students themselves?
+
+
 10. By what method do entries and student permissions get added and removed from the system?
 11. What input does the software take? (for example an external scanner for the student's school (or purpose-made) ID, typing in their ID number on a keyboard, biometrics, username/password...etcetc)
 12. What type of machine is the software required to run on?  (regular windows/mac desktop, semi-custom all-in-one scanner and display, android kiosk (as found elsewhere in the school), a single scanner that unlocks a door...etcetc)
 13. How much of a concern is security?  What type of threat model should the software defend against?
 14 in what ways does the software interact with other computer systems, if at all? (credential checking as a likely example)
+
