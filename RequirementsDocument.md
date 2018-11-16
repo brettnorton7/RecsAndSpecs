@@ -48,3 +48,10 @@ a. As a system administrator, I can oversee, change, add, and remove permissions
 
 
 6. See attached UI Design Prototype
+
+
+7. Nonfunctional Requirements
+
+  a. The software must interface with card scanners
+  b. The software must delete user permissions on graduation
+  c. The software must be quick enough to allow user permissions to be managed without major interruptions to workflow
