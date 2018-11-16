@@ -43,11 +43,10 @@
 
 <h1>4. </h1>
 
-
 <h1>5. UML Sequence Diagram</h1>
+![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Basic%20Sequence%20Diagram-1.png "sequence diagram")
 
-
-<h1>6. UI Design Prototype<h1>
+<h1>6. UI Design Prototype</h1>
 ![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%201.png "Mock UI1")
 ![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%202.png "Mock UI2")
 ![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%203.png "Mock UI3")
