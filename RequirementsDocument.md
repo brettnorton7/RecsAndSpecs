@@ -1,4 +1,5 @@
 1. Questionnaire
+
 Do you want permits to expire after the sutdent graduates?
 Do you want some permits to serve as prerequisites for some others?
 How will unpermitted students be prevented from accessing the machinery?
@@ -24,14 +25,20 @@ How much will this cost to implement?
 When will the system be used?
 How many permits can be given out?
 
+
 2. Textual Description of the software
+
 Our software will be a Permit to Work system that tracks a user’s permissions for using machinery. 
 A system administrator will be able to oversee and modify these permissions. 
 Authorized users will be able to access permissions to govern the process of giving out physical keys to students to allow them to use machines. 
 Students will be able to get these permissions by watching relevant instructional materials. 
 
+
 3. User Stories
-  a. As a system administrator, I can oversee, change, add, and remove permissions so that unauthorized students will not be able to use machines for which they are not qualified. 
+
+a. As a system administrator, I can oversee, change, add, and remove permissions so that unauthorized students will not be able to use machines for which they are not qualified. 
   b. As an authorized user, I can see student permissions so that I can give out physical keys only to students who are qualified to use a particular machine. 
   c. As a student, I can acquire permissions to prove to the authorized users that I am qualified to use a particular machine. 
   
+
+4. 
