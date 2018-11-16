@@ -44,13 +44,12 @@
 <h1>4. </h1>
 
 <h1>5. UML Sequence Diagram</h1>
-![alt text](https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Web%201920%20%E2%80%93%201.png?token=AcmX5QBZSpvKzrJTTxkMHRpdlTR5bjWEks5b93VrwA%3D%3D "sequence diagram")
 <img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Basic%20Sequence%20Diagram-1.png?token=AePQv9Kwy5AU1HyPfMmxJ297w6yY5Rxqks5b93JDwA%3D%3D" alt="Sequence diagram">
 
 <h1>6. UI Design Prototype</h1>
-![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%201.png "Mock UI1")
-![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%202.png "Mock UI2")
-![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%203.png "Mock UI3")
+<img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Web%201920%20%E2%80%93%201.png?token=AcmX5W1d9sFZJZYprMQy-Ru4Kf9WNk0Aks5b93YcwA%3D%3D" alt="Mock UI 1">
+<img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Web%201920%20%E2%80%93%202.png?token=AcmX5YMAnQpl9tPOD1pcfuChNk41aiEVks5b93ZDwA%3D%3D" alt="Mock UI 2">
+<img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Web%201920%20%E2%80%93%203.png?token=AcmX5d0__lPPjDlFj2mKndaqcyXy76hMks5b93ZpwA%3D%3D" alt="Mock UI 3">
 
 
 <h1>7. Nonfunctional Requirements</h1>
