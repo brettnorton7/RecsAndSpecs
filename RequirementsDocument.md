@@ -40,8 +40,8 @@
 <ul>b. As an authorized user, I can see student permissions so that I can give out physical keys only to students who are qualified to use a particular machine.</ul>
 <ul>c. As a student, I can acquire permissions to prove to the authorized users that I am qualified to use a particular machine.</ul>
 
-
-<h1>4. See Basic UML File </h1>
+<h1>4. Basic UML File </h1>
+<img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Basic%20UML.PNG?token=AcmX5f87XtlbSKDFui5bBm-F_1HCpg7Kks5b94CIwA%3D%3D" alt="Basic UML Diagram">
 
 <h1>5. UML Sequence Diagram</h1>
 <img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Basic%20Sequence%20Diagram-1.png?token=AePQv9Kwy5AU1HyPfMmxJ297w6yY5Rxqks5b93JDwA%3D%3D" alt="Sequence diagram">
