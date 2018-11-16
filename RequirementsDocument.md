@@ -41,7 +41,7 @@
 <ul>c. As a student, I can acquire permissions to prove to the authorized users that I am qualified to use a particular machine.</ul>
 
 
-<h1>4. </h1>
+<h1>4. See Basic UML File </h1>
 
 <h1>5. UML Sequence Diagram</h1>
 <img src="https://raw.githubusercontent.com/OU-CS3203-fall2018/permittowork-back-row/master/Basic%20Sequence%20Diagram-1.png?token=AePQv9Kwy5AU1HyPfMmxJ297w6yY5Rxqks5b93JDwA%3D%3D" alt="Sequence diagram">
