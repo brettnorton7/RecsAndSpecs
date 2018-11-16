@@ -44,10 +44,10 @@ a. As a system administrator, I can oversee, change, add, and remove permissions
 4. 
 
 
-5. See UML Sequence Diagram
+5. UML Sequence Diagram
+![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Basic%20Sequence%20Diagram-1.png "sequence diagram")
 
-
-6. See attached UI Design Prototype
+6. UI Design Prototype
 ![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%201.png "Mock UI1")
 ![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%202.png "Mock UI2")
 ![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%203.png "Mock UI3")
