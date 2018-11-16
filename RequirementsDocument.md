@@ -42,3 +42,9 @@ a. As a system administrator, I can oversee, change, add, and remove permissions
   
 
 4. 
+
+
+5. See UML Sequence Diagram
+
+
+6. See attached UI Design Prototype
