@@ -48,6 +48,9 @@ a. As a system administrator, I can oversee, change, add, and remove permissions
 
 
 6. See attached UI Design Prototype
+![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%201.png "Mock UI1")
+![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%202.png "Mock UI2")
+![alt text](https://github.com/OU-CS3203-fall2018/permittowork-back-row/blob/master/Web%201920%20%E2%80%93%203.png "Mock UI3")
 
 
 7. Nonfunctional Requirements
