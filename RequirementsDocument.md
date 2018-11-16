@@ -1,29 +1,29 @@
 1. Questionnaire
 
-Do you want permits to expire after the sutdent graduates?
-Do you want some permits to serve as prerequisites for some others?
-How will unpermitted students be prevented from accessing the machinery?
-Which systems should our permit system be able to run on?
-Will permits ever expire before the student graduates?
-Can permits be revoked? By whom?
-What are all of the student and faculty groups who will be given permits?
-Will all permits qualify the student for the same things?? i.e. will there be a tier system governing how much access students have; or an un-tiered, but segmented system where students are only granted access to specific relevant activities?
-Is the software intended for use by employees on site to scan people in (like many gyms) or is the software intended for use by students themselves?
-By what method do entries and student permissions get added and removed from the system?
-What input does the software take? (for example an external scanner for the student's school (or purpose-made) ID, typing in their ID number on a keyboard, biometrics, username/password...etcetc)
-What type of machine is the software required to run on? (regular windows/mac desktop, semi-custom all-in-one scanner and display, android kiosk (as found elsewhere in the school), a single scanner that unlocks a door...etcetc)
-How much of a concern is security? What type of threat model should the software defend against?
-In what ways does the software interact with other computer systems, if at all? (credential checking as a likely example)
-Who will create/take-away permits?
-When will a permit be given to a student?
-When will this system be implemented?
-How long will the system implementation take?
-How will the permit data be stored? The database it is stored in.
-Who will maintain the database?
-Is there other software required in order to properly implement this?
-How much will this cost to implement?
-When will the system be used?
-How many permits can be given out?
+a. Do you want permits to expire after the sutdent graduates?
+b. Do you want some permits to serve as prerequisites for some others?
+c. How will unpermitted students be prevented from accessing the machinery?
+d. Which systems should our permit system be able to run on?
+e. Will permits ever expire before the student graduates?
+f. Can permits be revoked? By whom?
+g. What are all of the student and faculty groups who will be given permits?
+h. Will all permits qualify the student for the same things?? i.e. will there be a tier system governing how much access students have;    or an un-tiered, but segmented system where students are only granted access to specific relevant activities?
+i. Is the software intended for use by employees on site to scan people in (like many gyms) or is the software intended for use by          students themselves?
+j. By what method do entries and student permissions get added and removed from the system?
+k. What input does the software take? (for example an external scanner for the student's school (or purpose-made) ID, typing in their ID    number on a keyboard, biometrics, username/password...etcetc)
+l. What type of machine is the software required to run on? (regular windows/mac desktop, semi-custom all-in-one scanner and display,      android kiosk (as found elsewhere in the school), a single scanner that unlocks a door...etcetc)
+m. How much of a concern is security? What type of threat model should the software defend against?
+n. In what ways does the software interact with other computer systems, if at all? (credential checking as a likely example)
+o. Who will create/take-away permits?
+p. When will a permit be given to a student?
+q. When will this system be implemented?
+r. How long will the system implementation take?
+s. How will the permit data be stored? The database it is stored in.
+t. Who will maintain the database?
+u. Is there other software required in order to properly implement this?
+v. How much will this cost to implement?
+w. When will the system be used?
+x. How many permits can be given out?
 
 
 2. Textual Description of the software
